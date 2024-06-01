@@ -11,7 +11,7 @@
 
 ?>
 
-    <!-- ---------------Bastante basico, pero es lo que hay, no es para el publico..--------------- -->
+    <!-- ---------------Bastante basico, pero no es para el publico..--------------- -->
     <style>
     *{
     padding: 0;
