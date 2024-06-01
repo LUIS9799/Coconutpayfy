@@ -148,7 +148,7 @@ body{
     }
 
 
-/* =======================Obviamente el logon tiene que ser bonitoo================ */
+/* ======================= El login tiene que ser bonito================ */
     #login__page{
       margin-top:20px;
       color:var(--heading__color);
